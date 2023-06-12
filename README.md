@@ -42,7 +42,6 @@ Experience in feature engineering techniques to create new informative represent
 
 Developing a web application using the Streamlit module to showcase the machine learning models and make predictions on new data.
 
-Understanding the challenges and best practices in the manufacturing domain and how machine learning can help solve them.
 
 
 
